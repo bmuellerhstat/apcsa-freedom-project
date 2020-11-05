@@ -6,7 +6,7 @@ As of the time this blog entry is being written, we are on the the blog setup an
 ---
 
 ### Links I Used  
-[Firebase Website](https://firebase.google.com)
+[Firebase Website](https://firebase.google.com)  
 [Firebase github repo](https://github.com/firebase/quickstart-ios)  
 
 ---
